@@ -1,0 +1,178 @@
+[08-May-2023 20:43:58 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: the_loai in /home/tlummmclick/serviceadmin.info/pages/profile.php on line 137
+[08-May-2023 20:50:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: the_loai in /home/tlummmclick/serviceadmin.info/pages/profile.php on line 137
+[21-May-2023 09:21:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vserviceadmininf/public_html/pages/search.php on line 6
+[21-May-2023 09:21:52 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/vserviceadmininf/public_html/pages/search.php on line 65
+[21-May-2023 09:22:14 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vserviceadmininf/public_html/pages/search.php on line 6
+[21-May-2023 09:22:14 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/vserviceadmininf/public_html/pages/search.php on line 65
+[21-May-2023 09:22:21 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vserviceadmininf/public_html/pages/search.php on line 6
+[21-May-2023 09:22:21 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/vserviceadmininf/public_html/pages/search.php on line 65
+[21-May-2023 09:22:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vserviceadmininf/public_html/pages/search.php on line 6
+[21-May-2023 09:22:24 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/vserviceadmininf/public_html/pages/search.php on line 65
+[26-May-2023 14:01:24 UTC] PHP Notice:  Undefined variable: site_logo in /home/vserviceadmininf/api.xn--nguynduykhnh-lbb5328h.vn/include/nav.php on line 17
+[26-May-2023 14:01:24 UTC] PHP Notice:  Undefined variable: site_logo in /home/vserviceadmininf/api.xn--nguynduykhnh-lbb5328h.vn/include/nav.php on line 57
+[26-May-2023 14:01:24 UTC] PHP Notice:  Undefined variable: ketnoi in /home/vserviceadmininf/api.xn--nguynduykhnh-lbb5328h.vn/pages/profile.php on line 6
+[26-May-2023 14:01:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vserviceadmininf/api.xn--nguynduykhnh-lbb5328h.vn/pages/profile.php on line 6
+[26-May-2023 14:01:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vserviceadmininf/api.xn--nguynduykhnh-lbb5328h.vn/pages/profile.php on line 7
+[26-May-2023 21:03:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: the_loai in /home/vserviceadmininf/api.xn--nguynduykhnh-lbb5328h.vn/pages/profile.php on line 138
+[26-May-2023 21:05:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: the_loai in /home/vserviceadmininf/api.xn--nguynduykhnh-lbb5328h.vn/pages/profile.php on line 138
+[26-May-2023 21:18:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: dv in /home/vserviceadmininf/api.xn--nguynduykhnh-lbb5328h.vn/pages/profile.php on line 136
+[26-May-2023 21:18:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: gdtg in /home/vserviceadmininf/api.xn--nguynduykhnh-lbb5328h.vn/pages/profile.php on line 157
+[26-May-2023 22:06:47 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: avatar in /home/vserviceadmininf/api.xn--nguynduykhnh-lbb5328h.vn/pages/profile.php on line 20
+[26-May-2023 22:06:47 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: the_loai in /home/vserviceadmininf/api.xn--nguynduykhnh-lbb5328h.vn/pages/profile.php on line 138
+[26-May-2023 22:08:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: the_loai in /home/vserviceadmininf/api.xn--nguynduykhnh-lbb5328h.vn/pages/profile.php on line 138
+[26-May-2023 22:08:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: the_loai in /home/vserviceadmininf/api.xn--nguynduykhnh-lbb5328h.vn/pages/profile.php on line 138
+[27-May-2023 00:47:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 366
+[27-May-2023 00:48:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 366
+[27-May-2023 00:48:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 366
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/include/config.php on line 67
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/include/config.php on line 67
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 213
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 221
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 241
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 242
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 251
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 252
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 260
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 261
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 280
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 280
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 294
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 297
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 297
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 301
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 319
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 335
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 353
+[27-May-2023 07:49:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 354
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/include/config.php on line 67
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/include/config.php on line 67
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 213
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 221
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 241
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 242
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 251
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 252
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 260
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 261
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 280
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 280
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 294
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 297
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 297
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 301
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 319
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 335
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 353
+[27-May-2023 07:49:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 354
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/include/config.php on line 67
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/include/config.php on line 67
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 213
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 221
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 241
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 242
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 251
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 252
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 260
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 261
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 280
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 280
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 294
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 297
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 297
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 301
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 319
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 335
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 353
+[27-May-2023 07:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 354
+[27-May-2023 07:52:58 Asia/Ho_Chi_Minh] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/include/config.php on line 67
+[27-May-2023 07:52:58 Asia/Ho_Chi_Minh] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/include/config.php on line 67
+[27-May-2023 07:55:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: the_loai in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 138
+[27-May-2023 07:56:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: the_loai in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 138
+[27-May-2023 08:08:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: the_loai in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 135
+[27-May-2023 01:32:02 UTC] PHP Parse error:  syntax error, unexpected 'CTK' (T_STRING) in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/profile.php on line 117
+[27-May-2023 08:44:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: avartar in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:44:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: avartar in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:44:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: avartar in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:44:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: avartar in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:44:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: avartar in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:44:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: avartar in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:44:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: avartar in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:44:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: avartar in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:44:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: avartar in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:44:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: avartar in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: userr in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:46 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: userr in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:46 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: userr in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:46 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: userr in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:46 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: userr in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:46 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:47 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: userr in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:47 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: userr in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:47 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: userr in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:47 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: userr in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:47 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: userr in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:47:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:48:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: userr in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:48:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:48:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: userr in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:48:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:48:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: userr in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:48:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:48:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: userr in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:48:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:48:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: userr in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 08:48:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 54
+[27-May-2023 23:37:32 UTC] PHP Notice:  Undefined variable: site_logo in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/include/nav.php on line 17
+[27-May-2023 23:37:32 UTC] PHP Notice:  Undefined variable: site_logo in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/include/nav.php on line 57
+[27-May-2023 23:37:32 UTC] PHP Notice:  Undefined variable: ketnoi in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 27
+[27-May-2023 23:37:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/vserviceadmininf/checkscam.khanhmuzatv.tk/pages/uy-tin.php on line 27
+[03-Jul-2023 03:08:34 UTC] PHP Notice:  Undefined variable: site_logo in /home/pdichvurightsg/vl.sg/include/nav.php on line 17
+[03-Jul-2023 03:08:34 UTC] PHP Notice:  Undefined variable: site_logo in /home/pdichvurightsg/vl.sg/include/nav.php on line 57
+[03-Jul-2023 03:08:34 UTC] PHP Notice:  Undefined variable: ketnoi in /home/pdichvurightsg/vl.sg/pages/uy-tin.php on line 27
+[03-Jul-2023 03:08:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/pdichvurightsg/vl.sg/pages/uy-tin.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/pdichvurightsg/vl.sg/pages/uy-tin.php on line 27
+[02-Jan-2025 18:40:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: fb_main in /home/tcsdoithe24/public_html/pages/profile.php on line 27
+[02-Jan-2025 18:40:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: fb_main in /home/tcsdoithe24/public_html/pages/profile.php on line 33
+[02-Jan-2025 18:41:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: fb_main in /home/tcsdoithe24/public_html/pages/profile.php on line 27
+[02-Jan-2025 18:41:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: fb_main in /home/tcsdoithe24/public_html/pages/profile.php on line 33
+[02-Jan-2025 18:41:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: fb_main in /home/tcsdoithe24/public_html/pages/profile.php on line 42
+[02-Jan-2025 18:42:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: fb_main in /home/tcsdoithe24/public_html/pages/profile.php on line 27
+[02-Jan-2025 18:42:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: fb_main in /home/tcsdoithe24/public_html/pages/profile.php on line 33
+[02-Jan-2025 18:42:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: fb_main in /home/tcsdoithe24/public_html/pages/profile.php on line 42
+[02-Jan-2025 18:44:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: fb_main in /home/tcsdoithe24/public_html/pages/profile.php on line 27
+[02-Jan-2025 18:44:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: fb_main in /home/tcsdoithe24/public_html/pages/profile.php on line 33
+[02-Jan-2025 18:44:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: fb_main in /home/tcsdoithe24/public_html/pages/profile.php on line 42
+[02-Jan-2025 19:31:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: index in /home/tcsdoithe24/public_html/pages/profile.php on line 99
+[02-Jan-2025 19:31:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: index in /home/tcsdoithe24/public_html/pages/profile.php on line 99
+[02-Jan-2025 19:31:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: index in /home/tcsdoithe24/public_html/pages/profile.php on line 99
+[02-Jan-2025 20:15:20 Asia/Ho_Chi_Minh] PHP Warning:  require_once(phpqrcode/qrlib.php): failed to open stream: No such file or directory in /home/tcsdoithe24/public_html/pages/profile.php on line 120
+[02-Jan-2025 20:15:20 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tcsdoithe24/public_html/pages/profile.php on line 120
+[02-Jan-2025 20:16:48 Asia/Ho_Chi_Minh] PHP Warning:  require_once(phpqrcode/qrlib.php): failed to open stream: No such file or directory in /home/tcsdoithe24/public_html/pages/profile.php on line 120
+[02-Jan-2025 20:16:48 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tcsdoithe24/public_html/pages/profile.php on line 120
+[02-Jan-2025 20:16:53 Asia/Ho_Chi_Minh] PHP Warning:  require_once(phpqrcode/qrlib.php): failed to open stream: No such file or directory in /home/tcsdoithe24/public_html/pages/profile.php on line 120
+[02-Jan-2025 20:16:53 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required 'phpqrcode/qrlib.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tcsdoithe24/public_html/pages/profile.php on line 120
+[03-Jan-2025 19:23:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: don in /home/tcsdoithe24/public_html/pages/search.php on line 24
+[03-Jan-2025 12:44:26 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/tcsdoithe24/public_html/pages/to-cao.php on line 28
+[03-Jan-2025 12:44:27 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/tcsdoithe24/public_html/pages/to-cao.php on line 28
+[03-Jan-2025 19:48:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: link_fb in /home/tcsdoithe24/public_html/pages/to-cao.php on line 68
+[03-Jan-2025 19:48:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: link_fb in /home/tcsdoithe24/public_html/pages/to-cao.php on line 68
+[03-Jan-2025 19:50:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: link_fb in /home/tcsdoithe24/public_html/pages/to-cao.php on line 28
+[03-Jan-2025 19:50:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: link_fb in /home/tcsdoithe24/public_html/pages/to-cao.php on line 28
+[03-Jan-2025 13:46:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/tcsdoithe24/public_html/pages/scam.php on line 164
+[04-Jan-2025 13:25:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: stk in /home/tcsdoithe24/public_html/pages/scam.php on line 9
+[04-Jan-2025 13:25:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: stk in /home/tcsdoithe24/public_html/pages/scam.php on line 9
+[04-Jan-2025 13:26:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: stk in /home/tcsdoithe24/public_html/pages/scam.php on line 9
+[04-Jan-2025 13:34:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: http://cs.doithe24.net/scamer/pham-duy-quang in /home/tcsdoithe24/public_html/pages/scam.php on line 125
