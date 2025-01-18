@@ -24,6 +24,7 @@ while ($row = mysqli_fetch_array($AADDCC)) {
     `mo_ta` = '" . $_POST['note'] . "',
     `money` = '" . $_POST['money'] . "',
     `dv` = '" . $_POST['dv'] . "',
+    `gdtg` = '" . $_POST['gdtg'] . "',
     `avatar` = '" . $_POST['avatar'] . "',
     `ngan_hang` = '" . $_POST['nganhang'] . "' WHERE `id` = '" . $id . "' ");
 
@@ -86,6 +87,12 @@ while ($row = mysqli_fetch_array($AADDCC)) {
               <label for="exampleInputEmail1">Dịch vụ</label>
               <input type="text" name="dv" class="form-control" value="<?= $row['dv']; ?>">
             </div>
+            
+            <div class="form-group">
+              <label for="exampleInputEmail1">GDTG</label>
+              <input type="text" name="gdtg" class="form-control" value="<?= $row['gdtg']; ?>">
+            </div>
+            
 
             <div class="form-group">
               <label for="exampleInputEmail1">Danh mục</label>
