@@ -23,7 +23,6 @@ while ($row = mysqli_fetch_array($AADDCC)) {
     `dich_vu` = '" . $_POST['loai'] . "',
     `mo_ta` = '" . $_POST['note'] . "',
     `money` = '" . $_POST['money'] . "',
-    `vi_momo` = '" . $_POST['momo'] . "',
     `dv` = '" . $_POST['dv'] . "',
     `avatar` = '" . $_POST['avatar'] . "',
     `ngan_hang` = '" . $_POST['nganhang'] . "' WHERE `id` = '" . $id . "' ");
