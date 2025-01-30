@@ -206,7 +206,7 @@ while ($row = mysqli_fetch_assoc($result)) {
 
                                                     @media (max-width: 767px) {
                                                         .overlay-image {
-                                                            top: 348px;
+                                                            top: 30px;
                                                             left: 115px;
                                                             width: 130px;
                                                         }
